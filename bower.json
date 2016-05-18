@@ -1,9 +1,10 @@
 {
   "name": "angular-ui-switch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": ["angular-ui-switch.js", "angular-ui-switch.css"],
   "authors": [
-    "xpeper <xpepermint@gmail.com>"
+    "xpeper <xpepermint@gmail.com>",
+    "Microserf <anthony.lalande@gmail.com>"
   ],
   "description": "iOS 7 style switch directive for AngularJS",
   "keywords": [
